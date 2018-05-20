@@ -1,0 +1,2 @@
+# Get-ExchangeServerVersionInfo
+VersionInfo
